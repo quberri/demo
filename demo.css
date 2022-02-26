@@ -1,0 +1,34 @@
+* {
+    background-color:rgb(28, 10, 58);
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    scroll-behavior: smooth;
+}
+.header__img >img {
+    width:100%;
+    max-width: 100vw;
+}
+.intro_info {
+    text-align: center;
+}
+.description {
+    text-align:center;
+}
+.stats {
+    text-align:center;
+}
+p {
+    color:mediumpurple
+}
+.stats_companies {
+    line-height: 5px;
+    font-size: 12px;
+}
+.stats_templates {
+    line-height: 5px;
+    font-size: 12px;
+}
+.stats_queries {
+    line-height: 5px;
+    font-size: 12px;
+}
